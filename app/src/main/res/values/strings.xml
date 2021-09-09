@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Contact</string>
+
+    <string-array name="contact_name">
+        <item>Ganesh</item>
+        <item>Parvati</item>
+        <item>Mahadev</item>
+        <item>Krishna</item>
+        <item>Radha</item>
+        <item>Vishanu</item>
+        <item>Laxmi</item>
+        <item>Bhramha</item>
+        <item>Narayan</item>
+        <item>Kartikey</item>
+    </string-array>
+
+    <string-array name="person_email">
+        <item>ganesh@gmail.com</item>
+        <item>parvati@gmail.com</item>
+        <item>mahadev@gmail.com</item>
+        <item>krishna@gmail.com</item>
+        <item>radha@gmail.com</item>
+        <item>vishanu@gmail.com</item>
+        <item>laxmi@gmail.com</item>
+        <item>bharamha@gmail.com</item>
+        <item>narayan@gmail.com</item>
+        <item>kartikey@gmail.com</item>
+    </string-array>
+
+    <string-array name="person_contact">
+        <item>9963258963</item>
+        <item>9845632147</item>
+        <item>8652369854</item>
+        <item>9856324569</item>
+        <item>7896325489</item>
+        <item>8965236548</item>
+        <item>6985321458</item>
+        <item>8965478963</item>
+        <item>7856324569</item>
+        <item>7569325896</item>
+    </string-array>
+
+    <string-array name="person_address">
+        <item>Gujarat</item>
+        <item>Mumbai</item>
+        <item>Utrakhand</item>
+        <item>Himachal</item>
+        <item>Sikkim</item>
+        <item>Asam</item>
+        <item>Tamilnadu</item>
+        <item>Chhatisgath</item>
+        <item>Keral</item>
+        <item>Goa</item>
+    </string-array>
+</resources>
